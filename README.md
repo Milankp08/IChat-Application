@@ -3,5 +3,6 @@
 •	Users can communicate with one another in real-time using this application in an interactive and seamless manner. Every user is notified when a new person joins or leaves the conversation.
 •	Tech stack used – HTML, CSS, JavaScript and NodeJS.	
 
+The UI of the applicication is as shown below
 
 ![alt text](https://github.com/Milankp08/IChat-Application/blob/main/IChat%20UI.jpg?raw=true)
