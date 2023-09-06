@@ -4,4 +4,5 @@
 •	Tech stack used – HTML, CSS, JavaScript and NodeJS.	
 
 ![alt text](IChat UI.jpg)
-
+https://github.com/Milankp08/IChat-Application/blob/main/IChat%20UI.jpg
+![alt text](https://github.com/Milankp08/IChat-Application/blob/main/IChat%20UI.jpg?raw=true)
